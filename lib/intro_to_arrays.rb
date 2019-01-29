@@ -21,6 +21,9 @@ def last_element(array)
   array[-1]
 end
 
+def south_east_asia
+  array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+end
 
 def first_element_with_array_methods=first_country
   ["Thailand", "Cambodia", "Singapore", "Myanmar"]
